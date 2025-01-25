@@ -1,16 +1,27 @@
-## Hi there 👋
+Hola soy desarrollador web interesado en el arte y la musica ,amante de la tecnologia .
 
-<!--
-**caleb963/caleb963** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Proyectos Destacados
+Trabajando en:
+Buffalo Místico
+Una plataforma interactiva que exhibe productos como sudaderas, camisas, bolsas, gorras, instrumentos y arte prehispánico. El proyecto incluye:
 
-Here are some ideas to get you started:
+Frontend: Desarrollado con React y CSS, incorporando diseños e imágenes prehispánicas para una experiencia visual única.
+Backend: Implementado con Node.js y MongoDB para una gestión eficiente de productos y usuarios.
+Seina Gallery
+Una galería de arte digital diseñada para exhibir obras únicas de la artista Bianca Maldonado. Características principales:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interfaz de Usuario: Creada con React, ofreciendo una navegación intuitiva y responsiva.
+Funcionalidades: Incluye un carrito de compras dinámico y ventanas modales para detalles de las obras.
+
+🛠️ Habilidades Técnicas
+Lenguajes: HTML, CSS, JavaScript
+Frameworks y Librerías: React, Node.js, Express.js
+Bases de Datos: MongoDB
+Control de Versiones: Git
+Herramientas de Productividad: Trello
+Pruebas: Jest
+Despliegue: Vite
+
+📫 Conéctate Conmigo
+LinkedIn: Caleb Manríquez
+X (anteriormente Twitter): @blue_bison369
