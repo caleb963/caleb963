@@ -1,13 +1,13 @@
-Hola soy desarrollador web interesado en el arte y la musica ,amante de la tecnologia .
+##Hola soy desarrollador web interesado en el arte y la musica ,amante de la tecnologia .
 
-🚀 Proyectos Destacados
+##🚀 Proyectos Destacados
 Trabajando en:
 Buffalo Místico
 Una plataforma interactiva que exhibe productos como sudaderas, camisas, bolsas, gorras, instrumentos y arte prehispánico. El proyecto incluye:
 
 Frontend: Desarrollado con React y CSS, incorporando diseños e imágenes prehispánicas para una experiencia visual única.
 Backend: Implementado con Node.js y MongoDB para una gestión eficiente de productos y usuarios.
-Seina Gallery
+##Seina Gallery
 Una galería de arte digital diseñada para exhibir obras únicas de la artista Bianca Maldonado. Características principales:
 
 Interfaz de Usuario: Creada con React, ofreciendo una navegación intuitiva y responsiva.
