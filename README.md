@@ -1,27 +1,27 @@
-##Hola soy desarrollador web interesado en el arte y la musica ,amante de la tecnologia .
+Hi, I'm a Web Developer!
+I'm passionate about art and music, and a technology enthusiast.
 
-##🚀 Proyectos Destacados
-Trabajando en:
+🚀 Featured Projects
+Currently Working On:
 Buffalo Místico
-Una plataforma interactiva que exhibe productos como sudaderas, camisas, bolsas, gorras, instrumentos y arte prehispánico. El proyecto incluye:
+An interactive platform showcasing products like hoodies, shirts, bags, caps, instruments, and pre-Hispanic art. The project includes:
 
-Frontend: Desarrollado con React y CSS, incorporando diseños e imágenes prehispánicas para una experiencia visual única.
-Backend: Implementado con Node.js y MongoDB para una gestión eficiente de productos y usuarios.
-##Seina Gallery
-Una galería de arte digital diseñada para exhibir obras únicas de la artista Bianca Maldonado. Características principales:
+Frontend: Developed with React and CSS, featuring pre-Hispanic designs and visuals for a unique user experience.
+Backend: Built with Node.js and MongoDB for efficient product and user management.
+Seina Gallery
+A digital art gallery designed to showcase unique pieces by the artist Bianca Maldonado. Key features include:
 
-Interfaz de Usuario: Creada con React, ofreciendo una navegación intuitiva y responsiva.
-Funcionalidades: Incluye un carrito de compras dinámico y ventanas modales para detalles de las obras.
-
-🛠️ Habilidades Técnicas
-Lenguajes: HTML, CSS, JavaScript
-Frameworks y Librerías: React, Node.js, Express.js
-Bases de Datos: MongoDB
-Control de Versiones: Git
-Herramientas de Productividad: Trello
-Pruebas: Jest
-Despliegue: Vite
-
-📫 Conéctate Conmigo
+User Interface: Built with React, offering an intuitive and responsive navigation experience.
+Functionalities: Includes a dynamic shopping cart and modals for detailed artwork views.
+🛠️ Technical Skills
+Languages: HTML, CSS, JavaScript
+Frameworks & Libraries: React, Node.js, Express.js
+Databases: MongoDB
+Version Control: Git
+Productivity Tools: Trello
+Testing: Jest
+Deployment: Vite
+📫 Connect With Me
 LinkedIn: Caleb Manríquez
-X (anteriormente Twitter): @blue_bison369
+X (formerly Twitter): @blue_bison369
+
