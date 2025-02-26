@@ -24,7 +24,7 @@ A **digital art gallery** designed to showcase unique pieces by the artist Bianc
 - **Testing:** Jest, Cypress  
 - **Version Control:** Git, GitHub  
 - **Productivity Tools:** Trello, Notion  
-- **Deployment & Cloud:**webpack, Vite, Google Cloud , Heroku
+- **Deployment & Cloud:** webpack, Vite, Google Cloud , Heroku
 
 ## 📫 Connect With Me  
 - **LinkedIn:** [Caleb Manríquez](https://www.linkedin.com/in/calebmanriquez-fullstackwebdeveloper/)  
